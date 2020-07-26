@@ -56,9 +56,9 @@ logo = """
 ██╔══██╗██╔══██║░╚═══██╗██║██╔══██╗
 ██████╦╝██║░░██║██████╔╝██║██║░░██║
 ╚═════╝░╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚═╝                                                                                                                     
-
-                  """
-
+Do not fear death....
+For it is only the beginning of the next journey.
+               
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -317,7 +317,7 @@ def pilih_super():
 	print "\n\033[1;93m ❈           \x1b[1;97mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "        \033[1;92m●═════════════════◄►════════════════●"
 
-	jalan('              \033[1;97mXPT Haji Ali start Hacking ...')
+	jalan('              \033[1;97m BaSir Khan start Hacking ...')
 	print  "       \033[1;92m ●════════════════◄►════════════════●" 
 
 	def main(arg):
