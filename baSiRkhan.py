@@ -56,8 +56,6 @@ logo = """
 ██╔══██╗██╔══██║░╚═══██╗██║██╔══██╗
 ██████╦╝██║░░██║██████╔╝██║██║░░██║
 ╚═════╝░╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚═╝                                                                                                                     
-Do not fear death....
-For it is only the beginning of the next journey.
                
 def tik():
 	titik = ['.   ','..  ','... ']
