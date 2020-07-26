@@ -314,7 +314,6 @@ def pilih_super():
 		print("                    \r\033[1;32;40m          [⚔] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;93m ❈           \x1b[1;97mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "        \033[1;92m●═════════════════◄►════════════════●"
-
 	jalan('              \033[1;97m BaSir Khan start Hacking ...')
 	print  "       \033[1;92m ●════════════════◄►════════════════●" 
 
